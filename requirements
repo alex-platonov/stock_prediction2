@@ -7,7 +7,7 @@
 !pip install scipy  # SciPy: mathematics and engineering.
 !pip install statsmodels  # Statsmodels: Statistical modeling and econometrics.
 !pip install scikit-learn  # Scikit-learn: Machine learning.
-!pip install keras  # Keras: NN API, running on top of TensorFlow.
+#!pip install keras  # Keras: NN API, running on top of TensorFlow.
 !pip install tensorflow  # TensorFlow: machine learning and artificial intelligence.
 !pip install yfinance  # Yfinance: download financial data from Yahoo Finance.
 !pip install beautifulsoup4  # BeautifulSoup: web scraping, parsing HTML and XML documents.
