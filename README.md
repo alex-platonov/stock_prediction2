@@ -1,4 +1,4 @@
-# Time series analysis and visualization
+# Time series analysis and visualization (WIP)
 This exercise in TS analysis is a logical evolution from the very first attempt to predict anything based on the historical time-series data found in /stock_prediction repo. 
 
 A number of approaches will be evaluated and tested. 
